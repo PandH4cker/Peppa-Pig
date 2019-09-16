@@ -1,2 +1,5 @@
 # Peppa-Pig
-Representation of Peppa Pig in Java Processing
+---
+## Author: Raphael Dray.
+---
+### Representation of Peppa Pig in Java Processing
